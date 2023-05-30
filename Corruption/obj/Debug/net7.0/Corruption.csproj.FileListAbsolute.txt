@@ -1,0 +1,15 @@
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.csproj.AssemblyReference.cache
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.AssemblyInfoInputs.cache
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.AssemblyInfo.cs
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.csproj.CoreCompileInputs.cache
+C:\Users\sydor\Space\dev_platz\che\Corruption\bin\Debug\net7.0\Corruption.exe
+C:\Users\sydor\Space\dev_platz\che\Corruption\bin\Debug\net7.0\Corruption.deps.json
+C:\Users\sydor\Space\dev_platz\che\Corruption\bin\Debug\net7.0\Corruption.runtimeconfig.json
+C:\Users\sydor\Space\dev_platz\che\Corruption\bin\Debug\net7.0\Corruption.dll
+C:\Users\sydor\Space\dev_platz\che\Corruption\bin\Debug\net7.0\Corruption.pdb
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.dll
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\refint\Corruption.dll
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.pdb
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\Corruption.genruntimeconfig.cache
+C:\Users\sydor\Space\dev_platz\che\Corruption\obj\Debug\net7.0\ref\Corruption.dll
